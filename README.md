@@ -1,5 +1,5 @@
 # criptografia
-Estudo sobre criptografia representado em arquivo excel.
+Estudo sobre criptografia, baseado na cifra de César e cifra de Vigenère, representados no excel.
 
 # Modo de usar
 1. Escolha a palavra que deseja criptografar e digite cada letra em uma célula na linha TEXTO; 
